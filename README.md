@@ -1,2 +1,2 @@
 # payment-factory
-A payment factory is a treasury software importing financial flows (payments and collections) from upstream applications and communicating with banks after a validation workflow and many data securing, automation and rationalizing technical operations. 
+A [payment factory](http://www.datalog-finance.com/en/cashsolutions-range/payment-cashpooler/) is a A [treasury management](https://en.wikipedia.org/wiki/Treasury_management) software importing financial flows (payments and collections) from upstream applications and communicating with banks after validation workflow, data securing process, automation and rationalizing technical operations. 
